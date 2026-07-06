@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://outdoor.starhome-enc.com/sitemap.xml
